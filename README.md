@@ -245,3 +245,7 @@ If you have any questions or need help with the dashboard:
 ---
 
 **Built with ❤️ using React, TypeScript, and modern web technologies**
+
+
+##Deployed link
+https://evdashboardbymk.netlify.app/
